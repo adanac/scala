@@ -1,2 +1,2 @@
 # scala
-a scala project for test
+a scala project for test.
